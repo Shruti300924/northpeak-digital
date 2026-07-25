@@ -4,11 +4,11 @@ A modern, responsive business landing page built as part of the **Digital Heroes
 
 ## Live Demo
 
-🔗 https://your-netlify-link.netlify.app
+🔗 https://northpeak-digital23.netlify.app/
 
 ## GitHub Repository
 
-🔗 https://github.com/your-username/northpeak-digital
+🔗 https://github.com/Shruti300924/northpeak-digital.git
 
 ## Project Overview
 
@@ -90,7 +90,7 @@ NorthPeak-Digital/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/northpeak-digital.git
+git clone https://github.com/Shruti300924/northpeak-digital.git
 ```
 
 2. Open the project folder.
