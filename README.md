@@ -10,6 +10,10 @@ A modern, responsive business landing page built as part of the **Digital Heroes
 
 🔗 https://github.com/Shruti300924/northpeak-digital.git
 
+## Loom Link
+
+🔗 https://www.loom.com/share/390e486710a047179804b4c65ee54ea3
+
 ## Project Overview
 
 NorthPeak Digital is a responsive landing page for a fictional digital agency. It showcases services, testimonials, pricing plans, and a contact form with a clean, modern design. The project emphasizes performance, accessibility, responsive design, and SEO best practices.
